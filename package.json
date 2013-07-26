@@ -1,0 +1,30 @@
+{
+  "name": "email-webhooks",
+  "version": "0.0.0",
+  "description": "email-webhooks ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bpartridge83/email-webhooks.git"
+  },
+  "keywords": [
+    "email",
+    "webhooks"
+  ],
+  "author": "Brian Partridge",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "b99037fadffbd941c68a4228d21ea1419d18f2b0",
+  "bugs": {
+    "url": "https://github.com/bpartridge83/email-webhooks/issues"
+  },
+  "dependencies": {
+    "express": "~3.3.4",
+    "nconf": "~0.6.7",
+    "mongoskin": "~0.6.0",
+    "async": "~0.2.9"
+  }
+}

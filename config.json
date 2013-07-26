@@ -1,0 +1,5 @@
+{
+	"INBOUND_ENDPOINT": "/inbound",
+	"PORT": 5000,
+	"DB_CONN": "mongodb://local:local@dharma.mongohq.com:10001/app17143705"
+}
